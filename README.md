@@ -7,7 +7,7 @@
 <div align="center">
  :telescope: I’m currently working on **Learing About Cybersecurity**
     
- :seedling: I’m currently learning **Gethub, Vs Code, Virtualbox, Cybersecuraty + Ops**
+ :seedling: I’m currently learning **Gethub, Vs Code, Virtualbox, Cybersecurity + Ops**
  
 :speech_balloon: Ask me about **what im learning... or anything [here](https://github.com/shh061490/Samuel-cyber-2025)**
 :zap: Fun fact **Phishing is the most common type of cyber crime, in 2022 more then 4.7 million phishing attacts occred **
