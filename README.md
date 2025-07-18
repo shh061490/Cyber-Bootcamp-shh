@@ -1,29 +1,30 @@
-# Savvy Coders Project Boilerplate Starter Kit
-
-## Overview
-
-This template repository contains several opinionated, 'starter' files and settings to help Savvy Coder students focus more time and energy on learning how to code and/or craft 'business logic' for projects and less time on configurations.
-
-In addition to a '.gitignore' and some VS Code specific extensions and settings, it includes the 'recommended' settings for:
-
-1. [ESLint](eslint.org)
-2. [Stylelint](stylelint.io)
-3. [Prettier](prettier.io)
-
-## Get Started
-
-**First and foremost,** make sure that your local machine is set up with all of the 'dev environment tooling' as per the instructions in the curriculum.
-
-Well, after establishing your directory structure on your local machine, (e.g. '~/Code/SavvyCoders'), clone the Savvy Starter Repo - essentially, there should be a button that says **Use this template.**
-
-> [Read more about using templates on GitHub here...](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template)
-
-Once this repo has been created on your GitHub, you can click on the button to 'clone' it as usual.
-
-Once it's `clone`d to your local machine, `cd` into the directory and **be sure to do:** `npm i` to get all of the dependencies installed. If you see any _errors_ (warnings are OK) on Windows, you may have to do `npm install`.
-
-Now, enter `code .` to open this project in VS Code, and look for a prompt to 'install some extensions' once inside VS Code (in the bottom `right` of your screen). You should install these.
-
-In your repo, feel free to update this README and make any other initial changes to files, etc. Then go ahead and do your usual `git` steps -- add, commit, and push.
-
-**Note:** This is a template repository, no need to 'fork it.
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Samuel.Huddleston" />
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Samuel+Huddleston!;" />
+</h1>
+<h3 align="center">Im A Savvy Coders Student Learning About Cybersecurity!</h3>
+<br/>
+<div align="center">
+ :telescope: I’m currently working on **Learing About Cybersecurity**
+ :seedling: I’m currently learning **Gethub, Vs Code, Virtualbox, Cybersecuraty + Ops**
+:speech_balloon: Ask me about **what im learning... or anything [here](https://github.com/shh061490/Samuel-cyber-2025)**
+:zap: Fun fact **Phishing is the most common type of cyber crime, in 2022 more then 4.7 million phishing attacts occred **
+ </div>
+<div align="center">
+  <a href="mailto:shh06@hotmail.com">
+    <img src="https://img.shields.io/badge/Hotmail-333333?style=for-the-badge&logo=hotmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/samuel-huddleston-953ab8334/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  </a>
+</div>
+ <hr/>
+<h2 align="center">:hammer_and_pick: Languages-Frameworks-Tools :hammer_and_pick:</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=vscode,github,bash,git" />
+    <img src="https://skillicons.dev/icons?i=,python,mysql,aws," /><br>
+</div>
+<br/>
+<hr/>
