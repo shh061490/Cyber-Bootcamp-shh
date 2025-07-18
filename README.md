@@ -1,13 +1,13 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Samuel.Huddleston" />
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Samuel+Huddleston!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Samuel+Huddleston!;" />
 </h1>
 <h3 align="center">Im A Savvy Coders Student Learning About Cybersecurity!</h3>
 <br/>
 <div align="center">
  :telescope: I’m currently working on **Learing About Cybersecurity**
     
- :seedling: I’m currently learning **Gethub, Vs Code, Virtualbox, Cybersecurity + Ops**
+ :seedling: I’m currently learning **Github, Vs Code, Virtualbox, Cybersecurity + Ops**
  
 :speech_balloon: Ask me about **what im learning... or anything [here](https://github.com/shh061490/Samuel-cyber-2025)**
 :zap: Fun fact **Phishing is the most common type of cyber crime, in 2022 more then 4.7 million phishing attacts occred **
